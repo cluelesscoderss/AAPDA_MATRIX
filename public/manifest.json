@@ -1,0 +1,16 @@
+{
+          "name": "AAPDA MATRIX SOS",
+          "short_name": "AapdaSOS",
+          "description": "Next-Gen AI Disaster Response Network",
+          "start_url": "/sos",
+          "display": "standalone",
+          "background_color": "#0f172a",
+          "theme_color": "#ef4444",
+          "icons": [
+                    {
+                              "src": "/favicon.ico",
+                              "sizes": "64x64",
+                              "type": "image/x-icon"
+                    }
+          ]
+}
